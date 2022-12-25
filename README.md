@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Pawan
+- 👀 I’m interested in Software/Web Development
+- 🌱 I’m currently practicing Full Stack Web Development
+- 💞️ I’m looking to collaborate on projects with the best of my abilities
+- 📫 Connect with me at kumarpp9718@gmail.com
